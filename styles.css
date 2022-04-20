@@ -62,3 +62,8 @@ img {
 .button-text {
     color:azure;
 }
+
+@viewport {
+    width:device-width;
+    zoom: 1.0;
+}
