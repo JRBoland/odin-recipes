@@ -53,3 +53,12 @@ img {
 .troll {
     font-size:small;
 }
+
+.button {
+    background-color:slategray;
+
+}
+
+.button-text {
+    color:azure;
+}
