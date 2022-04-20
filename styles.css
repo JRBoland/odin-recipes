@@ -1,0 +1,55 @@
+.body
+{
+    background-color:HoneyDew;
+    text-align:center;
+   font-family:helvetica,verdana,sans-serif;
+
+}
+h1 {
+    color:cadetblue;
+    text-shadow: 0px 32px rgba(195, 205, 205, 0.666);
+    
+    text-align: center;
+    font-size: 40px;
+    font-family:helvetica,verdana,sans-serif; 
+    opacity: 0.95
+}
+ul {
+    list-style-type: none;
+}
+.recipe-list {
+    text-align:center;
+  
+}
+ul {
+    display:inline-block;
+    text-align:left;
+    font-family:helvetica,verdana,sans-serif;
+    color:tomato;
+    font-size: 16px;
+    font-style:bold;
+    opacity: 0.85;
+}
+
+#imghome {
+    box-shadow: 0px 0px 0px;
+}
+
+img {
+    box-shadow: 2px 5px 5px rgb(192, 205, 205);
+    border-radius: 1px;
+    border-color:azure;
+}
+
+.div-chicken,
+.div-lentil,
+.div-fried {
+  display:inline-block;
+  justify-content: center;
+  width:700px;
+  color:rgb(42, 69, 70);
+}
+
+.troll {
+    font-size:small;
+}
