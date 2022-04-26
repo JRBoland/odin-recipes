@@ -59,9 +59,9 @@ img {
     border-color:azure;
 }
 
-.div-chicken,
-.div-lentil,
-.div-fried,
+.div-chicken
+.div-lentil
+.div-fried
 .div-oats {
   display:inline-block;
   justify-content: center;
