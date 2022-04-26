@@ -18,8 +18,8 @@
     background-color:rgb(255, 255, 255);
     text-align:center;
    font-family:helvetica,verdana,sans-serif;
-   padding: left 20%;
-   padding: right 20%;
+   padding-left:20%;
+   padding-right:20%;
 
 
 }
@@ -37,6 +37,7 @@ ul {
 }
 .recipe-list {
     text-align:center;
+    
   
 }
 ul {
@@ -47,6 +48,15 @@ ul {
     font-size: 16px;
     font-style:bold;
     opacity: 0.85;
+}
+
+ol {
+   display:inline-block;
+   text-align:left;
+   padding-left:15%;
+   padding-right:15%;
+
+    
 }
 
 #imghome {
@@ -61,7 +71,7 @@ img {
 
 .div-chicken
 .div-lentil
-.div-fried
+.div-fried 
 .div-oats {
   display:inline-block;
   justify-content: center;
