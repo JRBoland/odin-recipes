@@ -18,8 +18,7 @@
     background-color:rgb(255, 255, 255);
     text-align:center;
    font-family:helvetica,verdana,sans-serif;
-   padding-left:20%;
-   padding-right:20%;
+   
 
 
 }
@@ -52,7 +51,8 @@ ul {
 
 ol {
    text-align:left;
-
+   padding-left:10%;
+   padding-right:10%;
     
 }
 
