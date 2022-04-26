@@ -61,7 +61,8 @@ img {
 
 .div-chicken,
 .div-lentil,
-.div-fried {
+.div-fried,
+.div-oats {
   display:inline-block;
   justify-content: center;
   width:700px;
